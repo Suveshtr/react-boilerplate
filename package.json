@@ -4,7 +4,8 @@
   "description": "react-boilerplate",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "author": "Suvesh Trivedi",
   "license": "ISC",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Suveshtr/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/Suveshtr/react-boilerplate#readme"
+  "homepage": "https://github.com/Suveshtr/react-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.4"
+  }
 }
