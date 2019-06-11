@@ -1,11 +1,20 @@
 {
   "name": "react-bilerplate",
   "version": "0.1.0",
-  "description": "",
+  "description": "react-boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Suvesh Trivedi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suveshtr/react-boilerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Suveshtr/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Suveshtr/react-boilerplate#readme"
 }
