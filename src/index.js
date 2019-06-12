@@ -5,6 +5,8 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import MyApp from './app'
 
+import './style.css'
+
 ReactDOM.render(
   <MyApp />,
   document.getElementById('app')
