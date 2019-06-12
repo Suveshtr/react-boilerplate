@@ -3,6 +3,7 @@
 //console.log(getGreeting("World!"));
 import React from 'react'
 import ReactDOM from 'react-dom'
+import '@babel/polyfill'
 import MyApp from './app'
 
 import './style.css'
