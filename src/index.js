@@ -4,12 +4,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import '@babel/polyfill'
-import MyApp from './app'
+import App from './App'
 
 import './style.css'
 
 ReactDOM.render(
-  <MyApp />,
+  <App/>,
   document.getElementById('app')
 )
 
